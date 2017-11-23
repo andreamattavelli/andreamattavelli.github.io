@@ -12,9 +12,9 @@ I am a Research Associate at the Department of Computing of <a
 <br/>
 
 I obtained my Ph.D. at <a
-href="http://www.inf.usi.ch">Universit√† della Svizzera
+href="http://www.inf.usi.ch">Universit√† della Svizzera
 Italiana (USI)</a> Switzerland, under the supervision of Prof. <a
-href="http://www.inf.usi.ch/faculty/pezze">Mauro Pezz√®</a>
+href="http://www.inf.usi.ch/faculty/pezze">Mauro Pezz√®</a>
 and Prof. <a href="http://www.inf.usi.ch/carzaniga">Antonio
 Carzaniga</a>.
 
