@@ -117,12 +117,3 @@ Invited talk @ Imperial College London, UK
 * IEEE Transactions on Software Engineering (TSE)
 * Information and Software Technology Journal
 * Software Quality Journal
-
-#### Supervised Theses
-* Moksud Ahmed, _"Empirical Analysis of Software Redundancy in Java Libraries"_, University of Milano-Bicocca, Italy. July 2016.
-* Mihai Oprea, _"Automatic Identification of Intrinsic Redundancy in Software Libraries"_, University of Bacau, Romania. June 2016.
-* Federico Valentini, _"Applicazioni Android Self-Healing"_, University of Milano-Bicocca, Italy. May 2016.
-* Matteo Brunetto, _"Automatic generation of test cases for the identification of redundancy in software"_, University of Milano-Bicocca, Italy. October 2014.
-* Ayfera Bezawit Girma, _"Experimental evaluation of automatically generated invariants"_, Università della Svizzera italiana (USI), Switzerland. September 2013.
-* Bisrat Kidane, _"Systematic study of intrinsic redundancy in software systems"_, Università della Svizzera italiana (USI), Switzerland. June 2013.
-* Giorgia Bello, _"Characterization of the intrinsic redundancy of software"_, University of Milano-Bicocca, Italy. September 2012.
