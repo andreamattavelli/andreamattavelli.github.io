@@ -9,8 +9,6 @@ I am a Research Associate at the Department of Computing of <a
  Reliability Group</a> with Dr. <a
  href="http://www.doc.ic.ac.uk/~cristic/">Cristian Cadar</a>.
 
-<br/>
-
 I obtained my Ph.D. at <a
 href="http://www.inf.usi.ch">Università della Svizzera
 Italiana (USI)</a> Switzerland, under the supervision of Prof. <a
