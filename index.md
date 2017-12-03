@@ -46,23 +46,23 @@ analysis.</p>
 
 ## Software
 
-#### ARMOR
-ARMOR is our tool that implements our runtime automatic recovering technique for Java.
+**ARMOR**<br/>
+<a href="http://star.inf.usi.ch/star/armor">ARMOR</a> is a tool that implements automatic runtime recovering for Java.
 
-#### Cross-Checking Oracles
-Cross-Checking Oracles is a technique to generate and execute test oracles and that exploits the redundancy of the program under test.
+**Cross-Checking Oracles**<br/>
+<a href="http://star.inf.usi.ch/star/cross-check">Cross-Checking Oracles</a> is a technique to generate and execute test oracles that exploits the intrinsic redundancy of the program under test.
 
-#### KLEE
-KLEE is a symbolic virtual machine built on top of the LLVM compiler infrastructure that targets the generation of test cases for high code coverage.
+**KLEE**<br/>
+<a href="https://klee.github.io">KLEE</a> is a symbolic virtual machine built on top of the LLVM compiler infrastructure that targets the generation of test cases for high code coverage.
 
-#### KLEE-Array
-KLEE augmented with a set of semantic-preserving transformations that take advantage of contextual information to speedup array operations.
+**KLEE-Array**<br/>
+<a href="https://srg.doc.ic.ac.uk/projects/klee-array">KLEE</a> augmented with a set of semantic-preserving transformations that take advantage of contextual information to speedup array operations.
 
-#### SBES
-SBES is search-based tool to automatically synthesize sequences of method invocations that are equivalent to a target method.
+**SBES**<br/>
+<a href="http://star.inf.usi.ch/sbes">SBES</a> is a program synthesis tool that leverages search-based algorithm to automatically generate object-oriented Java code.
 
-#### SUSHI
-SUSHI is a test case generator for Java that combines symbolic execution and search-based techniques to achieve high branch coverage.
+**SUSHI**<br/>
+<a href="https://github.com/pietrobraione/sushi">SUSHI</a> is a test case generator that combines symbolic execution and search-based techniques to achieve high branch coverage.
 
 ---
 
