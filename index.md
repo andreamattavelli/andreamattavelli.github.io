@@ -3,22 +3,12 @@ layout: page
 title: Home
 ---
 
-I am a Research Associate at the Department of Computing of <a
- href="http://www.imperial.ac.uk/computing">Imperial College
- London</a>, working in the <a href="http://srg.doc.ic.ac.uk">Software
- Reliability Group</a> with Dr. <a
- href="http://www.doc.ic.ac.uk/~cristic/">Cristian Cadar</a>.
+I am a Software Engineer at <a class="link" href="https://www.mfgroup.ch">GM Technologies</a>, the leading provider for purchase-by-invoice services in Switzerland.
 
-I obtained my Ph.D. at <a
-href="http://www.inf.usi.ch">Università della Svizzera
-Italiana (USI)</a> Switzerland, under the supervision of Prof. <a
-href="http://www.inf.usi.ch/faculty/pezze">Mauro Pezzè</a>
-and Prof. <a href="http://www.inf.usi.ch/carzaniga">Antonio
-Carzaniga</a>.
-
-<p>My research interests are mainly in software redundancy,
-search-based software engineering, and software testing and
-analysis.</p>
+Previously, I was a Research Associate at <a class="link" href="http://www.imperial.ac.uk/computing">Imperial College London</a> (UK) working on symbolic execution in the
+<a class="link" href="http://srg.doc.ic.ac.uk">Software Reliability Group</a>. <br/>
+I obtained my Ph.D. at <a class="link" href="http://www.inf.usi.ch">Università della Svizzera Italiana</a> (Switzerland) working on software redundancy, automatic
+program repair, program synthesis, and test oracle generation under the supervision of <a class="link" href="http://www.inf.usi.ch/carzaniga">Antonio Carzaniga</a> and <a class="link" href="http://www.inf.usi.ch/faculty/pezze">Mauro Pezzè</a>.
 
 ---
 
