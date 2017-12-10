@@ -43,10 +43,8 @@ program repair, program synthesis, and test oracle generation under the supervis
 <a href="http://star.inf.usi.ch/star/cross-check">Cross-Checking Oracles</a> is a technique to generate and execute test oracles that exploits the intrinsic redundancy of the program under test.
 
 **KLEE**<br/>
-<a href="https://klee.github.io">KLEE</a> is a symbolic virtual machine built on top of the LLVM compiler infrastructure that targets the generation of test cases for high code coverage.
-
-**KLEE-Array**<br/>
-<a href="https://srg.doc.ic.ac.uk/projects/klee-array">KLEE</a> augmented with a set of semantic-preserving transformations that take advantage of contextual information to speedup array operations.
+<a href="https://klee.github.io">KLEE</a> is a symbolic virtual machine built on top of the LLVM compiler infrastructure that targets the generation of test cases for high code coverage. <br/>
+We also developed <a href="https://srg.doc.ic.ac.uk/projects/klee-array">KLEE-Array</a>, a version of KLEE augmented with a set of semantic-preserving transformations that take advantage of contextual information to speedup array operations.
 
 **SBES**<br/>
 <a href="http://star.inf.usi.ch/sbes">SBES</a> is a program synthesis tool that leverages search-based algorithm to automatically generate object-oriented Java code.
