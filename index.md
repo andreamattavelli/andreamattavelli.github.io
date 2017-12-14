@@ -14,6 +14,9 @@ program repair, program synthesis, and test oracle generation under the supervis
 
 ## Papers
 
+#### 2018
+{% bibliography --query @*[year=2018] %}
+
 #### 2017
 {% bibliography --query @*[year=2017] %}
 
